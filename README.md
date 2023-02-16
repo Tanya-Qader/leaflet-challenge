@@ -13,7 +13,7 @@ The instructions for this activity are broken into two parts:
 
 ## Part 1: Create the Earthquake Visualization
 
-![image](https://user-images.githubusercontent.com/116117065/219474512-a91799bb-1a99-4033-928a-168c208b06b8.png)
+![image](https://user-images.githubusercontent.com/116117065/219480438-21189dee-2890-4260-a7d1-59998738d84e.png)
 
 
 Your first task is to visualize an earthquake dataset. Complete the following steps:
@@ -52,7 +52,7 @@ This part is completely optional; you can complete this part as a way to challen
 
 The following image is an example screenshot of what you should produce:
 
-![image](https://user-images.githubusercontent.com/116117065/219474630-ce792457-efd0-4967-8bda-d3a6782eeff7.png)
+![image](https://user-images.githubusercontent.com/116117065/219480584-a3a0508b-bdb9-43c3-9533-0f91006b8c3d.png)
 
 
 Perform the following tasks:
